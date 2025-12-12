@@ -48,6 +48,3 @@ public class Event {
     private List<User> jueces = new ArrayList<>();
 }
 
-enum EventStatus {
-    PLANIFICADO, EN_PROGRESO, FINALIZADO
-}
